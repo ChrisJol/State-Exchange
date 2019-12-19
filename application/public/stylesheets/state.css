@@ -127,7 +127,6 @@ different views, color variations, etc.
     .form__image-select{
         margin:0 0 20px 0;
     }
-
     /*-------------------------------------------------------------POP_CATEGORIES--*/
     .pop__category-container{
         grid-template-columns: repeat(2, 1fr);
